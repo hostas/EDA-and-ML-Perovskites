@@ -1,3 +1,6 @@
-# hello-world
+# EDA and ML for Perovskites datasets
 
-doing some changes here to see them later -Jirka
+This work has been done as a part of project ...
+Main contributors: Jiri Hostas & Maicon Lourenco
+
+
