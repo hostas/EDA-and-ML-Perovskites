@@ -13,7 +13,7 @@ This work has been done as a part of AI4D project at University of Calgary
 2. [EDA (Exploratory data Analysis)](https://github.com/hostas/EDA-and-ML-for-Perovskites/blob/master/README.md)
 3. [Feature engineering](https://github.com/hostas/EDA-and-ML-for-Perovskites/blob/master/README.md)
 4. [Principal Component Analysis](https://github.com/hostas/EDA-and-ML-for-Perovskites/blob/master/README.md)
-5. [Wasserstein Autoencoders](https://github.com/hostas/EDA-and-ML-for-Perovskites/blob/master/README.md) (large portion of this code was forked from [ Ziyuan Rao's repository](https://github.com/ziyuanrao11/Machine-learning-enabled-high-entropy-alloy-discovery), please cite their [work](https://doi.org/10.1126/science.abo4940)
+5. [Wasserstein Autoencoders](https://github.com/hostas/EDA-and-ML-for-Perovskites/blob/master/README.md) (large portion of this code was forked from [ Ziyuan Rao's](https://github.com/ziyuanrao11/Machine-learning-enabled-high-entropy-alloy-discovery) repository, please cite his [work](https://doi.org/10.1126/science.abo4940)
 7. [Prediction (Regression)](https://github.com/hostas/EDA-and-ML-for-Perovskites/blob/master/README.md)
 8. [Hyperparameter tunning](https://github.com/hostas/EDA-and-ML-for-Perovskites/blob/master/README.md)
 
