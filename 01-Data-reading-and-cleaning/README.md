@@ -7,3 +7,5 @@ import pandas as pd
 import chemparse
 import os
 ```
+
+After running the code you should end up with a file called output.csv which we will work with later on.
