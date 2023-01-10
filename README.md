@@ -18,6 +18,8 @@ Second notebook:
 4. [Regression and hyperparameter tunning](https://github.com/hostas/EDA-and-ML-for-Perovskites/tree/master/03-Regression)
 5. [PCA (Principal Component Analysis) and Wasserstein Autoencoders (WAE)](https://github.com/hostas/EDA-and-ML-for-Perovskites/tree/master/04-PCA-and-WAE)
 
+
+
 I will strive to provide a documentation that explains the code and key takeaways of the project. Data reading and cleaning has been done in a single jupyter notebook (01). The rest of the project is in another notebook (02-05).
 
 
