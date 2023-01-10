@@ -15,7 +15,7 @@ This work has been done as a part of AI4D project at University of Calgary
 4. [Prediction (Regression)](https://github.com/hostas/EDA-and-ML-for-Perovskites/blob/master/README.md)
 5. [Hyperparameter tunning](https://github.com/hostas/EDA-and-ML-for-Perovskites/blob/master/README.md)
 
-I will provide a detailed documentation that explains the code and key takeaways of the project.
+I will provide a documentation that explains the code and key takeaways of the project.
 
 
 
