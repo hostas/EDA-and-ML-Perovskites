@@ -10,7 +10,8 @@ This work has been done as a part of AI4D project at University of Calgary
 ### The repository contains several subprojects which are sorted into following sections:
 
 First notebook:
-1. [Data reading and cleaning](https://github.com/hostas/EDA-and-ML-for-Perovskites/blob/master/01-Data-reading-and-cleaning/README.md) (including a custom made script to read a xlsx human made database file)
+1. [Data reading and cleaning](https://github.com/hostas/EDA-and-ML-for-Perovskites/blob/master/01-Data-reading-and-cleaning) (including a custom made script to read a xlsx human made database file)
+
 Second notebook:
 2. [Feature Engineering and EDA (Exploratory data Analysis)](https://github.com/hostas/EDA-and-ML-for-Perovskites/tree/master/02-Feature-engineering
 )
