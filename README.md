@@ -6,11 +6,10 @@ This work has been done as a part of AI4D project at University of Calgary
 
 **Other collaborators**: John Garcia, Hatef Shahmohamadi, Amanda Ndubuisi, Bhavadharini Selvakumar, Thilini Boteju, Lizandra Barrios Herrera, Alain Tchagang, Patrizia Calaminici, Andreas Koster, Mosayeb Naseri, Dennis Salahub, Venkataraman Thangadurai, and Karthik Shankar.
 
-
-### The repository contains several subprojects which are sorted into several sections
-
 I will strive to provide a documentation that explains the code and key takeaways of the project. Data reading and cleaning has been done in a single jupyter notebook (01). The rest of the project is in another notebook (02-05).
 
+
+### The repository contains several subprojects which are sorted into several sections
 
 First notebook:
 1. [Data reading and cleaning](https://github.com/hostas/EDA-and-ML-for-Perovskites/blob/master/01-Data-reading-and-cleaning) (including a custom made script to read a xlsx human made database file)
