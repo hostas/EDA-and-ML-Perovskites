@@ -9,12 +9,13 @@ This work has been done as a part of AI4D project at University of Calgary
 
 ### The repository contains several subprojects which are sorted into following sections:
 
+First notebook:
 1. [Data reading and cleaning](https://github.com/hostas/EDA-and-ML-for-Perovskites/blob/master/01-Data-reading-and-cleaning/README.md) (including a custom made script to read a xlsx human made database file)
-2. [EDA (Exploratory data Analysis)](https://github.com/hostas/EDA-and-ML-for-Perovskites/blob/master/README.md)
-3. [Feature engineering and PCA (Principal Component Analysis)](https://github.com/hostas/EDA-and-ML-for-Perovskites/blob/master/README.md)
-4. [Wasserstein Autoencoders](https://github.com/hostas/EDA-and-ML-for-Perovskites/blob/master/README.md) (large portion of this code was forked from [ Ziyuan Rao's](https://github.com/ziyuanrao11/Machine-learning-enabled-high-entropy-alloy-discovery) repository, please cite his [work](https://doi.org/10.1126/science.abo4940)!
-5. [Prediction (Regression)](https://github.com/hostas/EDA-and-ML-for-Perovskites/blob/master/README.md)
-6. [Hyperparameter tunning](https://github.com/hostas/EDA-and-ML-for-Perovskites/blob/master/README.md)
+Second notebook:
+2. [Feature Engineering and EDA (Exploratory data Analysis)](https://github.com/hostas/EDA-and-ML-for-Perovskites/tree/master/02-Feature-engineering
+)
+3. [Regression and hyperparameter tunning](https://github.com/hostas/EDA-and-ML-for-Perovskites/tree/master/03-Regression)
+4. [PCA (Principal Component Analysis) and Wasserstein Autoencoders (WAE)](https://github.com/hostas/EDA-and-ML-for-Perovskites/tree/master/04-PCA-and-WAE)
 
 I will strive to provide a documentation that explains the code and key takeaways of the project. Data reading and cleaning has been done in a single jupyter notebook (01). The rest of the project is in another notebook (02-05).
 
