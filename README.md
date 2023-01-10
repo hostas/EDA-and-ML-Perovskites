@@ -18,4 +18,4 @@ This repository contains several subprojects which are sorted into following sec
 I will provide a detailed documentation that explains the code and key takeaways of the project.
 
 
-![Abstract](https://github.com/hostas/EDA-and-ML-for-Perovskites/Abstract.png)
+![Abstract](hhttps://github.com/hostas/EDA-and-ML-for-Perovskites/blob/master/Graphics/Abstract.jpg)
