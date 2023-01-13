@@ -12,4 +12,4 @@ After running the code you should end up with a file called output.csv which we 
 
 ![Abstract](https://github.com/hostas/EDA-and-ML-for-Perovskites/blob/master/Graphics/dataset.jpg)
 
-**Figure 1**:
+**Figure 1**: Simple visualization of data
