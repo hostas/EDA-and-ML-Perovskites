@@ -1,6 +1,6 @@
 # Pricipal Compotent Analysis (PCA) and Wasserstein Autoencoders (WAE)
 
-PCA is often used to reduce the descriptor size. Autoencoders have many applications. It would be interesting to use this data representation for inverse design or a material optimization search.
+PCA is often used to reduce the descriptor size. Autoencoders have many applications from inverse design to visualization. It would be interesting to use this data representation for inverse design, ideally for optimization of more than 1 material property at the time.
 
 ![Abstract](https://github.com/hostas/EDA-and-ML-for-Perovskites/blob/master/Graphics/WAE.png)
 
