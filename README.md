@@ -12,7 +12,7 @@ I will strive to provide a documentation that explains the code and key takeaway
 ### The repository contains several subprojects which are sorted into several sections
 
 First notebook:
-1. [Data reading and cleaning](https://github.com/hostas/EDA-and-ML-for-Perovskites/blob/master/01-Data-reading-and-cleaning) (including a custom made script to read a xlsx human made database file)
+1. [Data reading and cleaning](https://github.com/hostas/EDA-and-ML-for-Perovskites/blob/master/01-Data-reading-and-cleaning) (including a custom made script to read an xlsx human made database file)
 
 Second notebook:
 
