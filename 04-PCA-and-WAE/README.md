@@ -4,4 +4,4 @@ PCA is often used to reduce a sparse descriptor size and visualize data. Autoenc
 
 ![Abstract](https://github.com/hostas/EDA-and-ML-for-Perovskites/blob/master/Graphics/WAE.png)
 
-**Figure 1**:  Wasserstein Autoencoders results.
+**Figure 1**:  Visualization of a 2D latent space of a Wasserstein Autoencoder.
