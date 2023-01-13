@@ -1,6 +1,6 @@
 # Regression with hyperparameter optimization
 
-I have used program ![tpot](http://epistasislab.github.io/tpot/) which takes care of both feature engineering and hyperameter search in model optimization.
+I have used program [tpot](http://epistasislab.github.io/tpot/) which takes care of both feature engineering and hyperameter search in model optimization.
 
 ![Abstract](https://github.com/hostas/EDA-and-ML-for-Perovskites/blob/master/Graphics/Regression.jpg)
 
