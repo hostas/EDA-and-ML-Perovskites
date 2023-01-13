@@ -9,3 +9,8 @@ import os
 ```
 
 After running the code you should end up with a file called output.csv which we will work with later on.
+
+
+![Abstract](https://github.com/hostas/EDA-and-ML-for-Perovskites/blob/master/Graphics/dataset.jpg)
+
+**Figure 1**:
