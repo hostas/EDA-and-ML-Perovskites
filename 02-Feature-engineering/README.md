@@ -1,6 +1,6 @@
 # Feature engineering
 
-It is important to check how well our features are correlated:
+It is important to check how are our features correlated. This information can help in feature engineering and reduction. Having features which are lineary dependent on each other probably won't improve our model. We should strive to provide nonlinear features which bring new information about our data.
 
 ![Abstract](https://github.com/hostas/EDA-and-ML-for-Perovskites/blob/master/Graphics/Correlation-of-descriptors.png)
 
