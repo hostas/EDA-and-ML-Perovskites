@@ -10,6 +10,6 @@ import os
 
 After running the code you should end up with a file called output.csv which we will work with later on.
 
-![Abstract](https://github.com/hostas/EDA-and-ML-for-Perovskites/blob/master/Graphics/dataset.jpg)
+![Abstract](https://github.com/jiri-hostas/EDA-and-ML-for-Perovskites/blob/master/Graphics/dataset.jpg)
 
 **Figure 1**: Simple visualization of data. Bandgap is one material property that is often optimized. It is important to know how diverse compounds are in the dataset and which elements are the most abundant in the dataset. Do we have a small dataset? Is it unbalanced?
