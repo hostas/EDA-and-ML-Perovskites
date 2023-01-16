@@ -16,9 +16,9 @@ First notebook:
 
 Second notebook:
 
-2. [Feature Engineering and EDA (Exploratory data Analysis)](https://github.com/hostas/EDA-and-ML-for-Perovskites/tree/master/02-Feature-engineering)
-4. [Regression and hyperparameter tunning](https://github.com/hostas/EDA-and-ML-for-Perovskites/tree/master/03-Regression)
-5. [PCA (Principal Component Analysis) and Wasserstein Autoencoders (WAE)](https://github.com/hostas/EDA-and-ML-for-Perovskites/tree/master/04-PCA-and-WAE)
+2. [Feature Engineering and EDA (Exploratory data Analysis)](https://github.com/jiri-hostas/EDA-and-ML-for-Perovskites/tree/master/02-Feature-engineering)
+4. [Regression and hyperparameter tunning](https://github.com/jiri-hostas/EDA-and-ML-for-Perovskites/tree/master/03-Regression)
+5. [PCA (Principal Component Analysis) and Wasserstein Autoencoders (WAE)](https://github.com/jiri-hostas/EDA-and-ML-for-Perovskites/tree/master/04-PCA-and-WAE)
 
 ![Abstract](https://github.com/jiri-hostas/EDA-and-ML-for-Perovskites/blob/master/Graphics/Abstract.jpg)
 
