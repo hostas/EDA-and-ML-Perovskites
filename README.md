@@ -6,7 +6,7 @@ This work has been done as a part of AI4D project (collaboration of researchers 
 
 **Other collaborators**: John Garcia, Hatef Shahmohamadi, Amanda Ndubuisi, Bhavadharini Selvakumar, Thilini Boteju, Lizandra Barrios Herrera, Alain Tchagang, Mosayeb Naseri, Dennis Salahub, Venkataraman Thangadurai, and Karthik Shankar.
 
-I will strive to provide a documentation that explains the code and key takeaways of the project. Data reading and cleaning has been done in a single jupyter notebook (01). The rest of the project is in another notebook (02-05).
+Documentation explains the main parts of the code and graphics highlight the key project takeaways. Data reading and cleaning has been done in a single jupyter notebook (01). The rest of the project is in another notebook (02-05).
 
 
 ### The repository contains several subprojects which are sorted into several sections
