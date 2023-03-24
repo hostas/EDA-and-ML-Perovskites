@@ -4,7 +4,7 @@ This work has been done as a part of AI4D project (collaboration of researchers 
 
 **Code contributors**: Jiri Hostas (Calgary/Canada) & Maicon Pierre Lourenco (Espírito Santo/Brasil)
 
-**Other collaborators**: John Garcia, Hatef Shahmohamadi, Amanda Ndubuisi, Bhavadharini Selvakumar, Thilini Boteju, Lizandra Barrios Herrera, Alain Tchagang, Patrizia Calaminici, Andreas Koster, Mosayeb Naseri, Dennis Salahub, Venkataraman Thangadurai, and Karthik Shankar.
+**Other collaborators**: John Garcia, Hatef Shahmohamadi, Amanda Ndubuisi, Bhavadharini Selvakumar, Thilini Boteju, Lizandra Barrios Herrera, Alain Tchagang, Mosayeb Naseri, Dennis Salahub, Venkataraman Thangadurai, and Karthik Shankar.
 
 I will strive to provide a documentation that explains the code and key takeaways of the project. Data reading and cleaning has been done in a single jupyter notebook (01). The rest of the project is in another notebook (02-05).
 
