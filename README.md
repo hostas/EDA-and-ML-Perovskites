@@ -1,6 +1,6 @@
 # Exploratory Data Analysis (EDA) and Machine Learning (ML) algorithms for Perovskite datasets
 
-This work has been done as a part of AI4D project (collaboration of researchers from University of Calgary, University of Alberta, National Research Council Canada and Federal University of Espírito Santo) and published as a conference paper at [ML4Materials](https://www.ml4materials.com/) from Molecules to Materials, The International Conference on Learning Representations (ICLR) 2023.
+This work has been done as a part of AI4D project (collaboration of researchers from University of Calgary, University of Alberta, National Research Council Canada and Federal University of Espírito Santo) and published as a conference paper at [ML4Materials](https://www.ml4materials.com/) from Molecules to Materials, part of The International Conference on Learning Representations (ICLR) 2023.
 
 **Code contributors**: Jiri Hostas (Calgary/Canada) & Maicon Pierre Lourenco (Espírito Santo/Brasil)
 
